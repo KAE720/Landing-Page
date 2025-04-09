@@ -256,6 +256,14 @@ margin-top: 0px;
 
 
 
+.footer{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    height: 100px;
+    margin-left: 550px;
+}
+
 
 
 button {
